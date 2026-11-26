@@ -221,3 +221,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Generated security reports
+security_report.txt
+custom_report.txt
